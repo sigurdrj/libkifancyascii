@@ -4,7 +4,6 @@ Currently, only contents where width = height are displayed properly
 # Example (also found in `example.cpp`)
 ```cpp
 #include <iostream>
-
 #include "libkifancyascii.hpp"
 
 using namespace libkifancyascii;
